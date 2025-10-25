@@ -121,7 +121,7 @@ Generation: Feeds context + question to Ollama LLM for final answer.
 
 🧑‍💻 Author
 
-Harsh [Your Last Name]
+Harshdeep singh
 B.Tech Student, Pranveer Singh Institute of Technology
 Focusing on Artificial Intelligence and Machine Learning
 
