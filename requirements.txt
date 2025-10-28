@@ -1,44 +1,38 @@
-# LangChain Core
-langchain
-langchain-core
-
-# OpenAI Integration
-langchain-openai
-openai
-
-# Anthropic Integration
-langchain-anthropic
-
-# Google Gemini (PaLM) Integration
-langchain-google-genai
-google-generativeai
-
-# Hugging Face Integration
-langchain-huggingface
-transformers
-huggingface-hub
-
-# Environment Variable Management
-python-dotenv
-
-# Machine Learning Utilities
-numpy
-scikit-learn
-scipy
-pandas
-
-# Frontend
+# Core Streamlit
 streamlit
 streamlit-chat
 
-# Transcripts API
+# YouTube Transcript API
 youtube-transcript-api
 
-# Additional Core Dependencies
+# LangChain Ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-ollama
+
+# LLMs and Embeddings
+openai
+ollama
+faiss-cpu
+
+# Supporting Libraries
+numpy
+pandas
+scikit-learn
+scipy
+
+# Prompting and Parsing
+tiktoken
+tenacity
+
+# Environment and Utilities
+python-dotenv
 requests
 tqdm
 protobuf
-pyarrow
 pillow
+pyarrow
 altair
 pydeck
