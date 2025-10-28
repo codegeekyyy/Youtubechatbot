@@ -24,7 +24,21 @@ python-dotenv
 # Machine Learning Utilities
 numpy
 scikit-learn
+scipy
+pandas
 
-# frontend
+# Frontend
 streamlit
 streamlit-chat
+
+# Transcripts API
+youtube-transcript-api
+
+# Additional Core Dependencies
+requests
+tqdm
+protobuf
+pyarrow
+pillow
+altair
+pydeck
